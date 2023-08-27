@@ -64,6 +64,9 @@ Tools:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhonald16&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
 </a>
 
+## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
+<img src="https://github-profile-trophy.vercel.app/?username=Rhonald16&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+
 
 <!--
 **Rhonald16/Rhonald16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
